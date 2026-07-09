@@ -147,10 +147,3 @@ This project is for research and educational purposes. Please ensure proper attr
 - Transformer architectures for time series
 - Transfer learning in healthcare applications
 
-## Contact
-
-For questions about this project, please refer to the documentation or contact the development team.
-
----
-
-**Note**: This project is intended for research purposes. Clinical applications should undergo proper validation and regulatory approval.
